@@ -4,7 +4,7 @@ import Game from './components/game/Game';
 const App: React.FC = () => {
   // Update document title
   React.useEffect(() => {
-    document.title = "🎅 Santa's Gift Drop";
+    document.title = "Santa's Gift Shooter";
   }, []);
 
   return (
